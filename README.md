@@ -6,8 +6,8 @@ This project is a React meme generator developed from the Scrimba tutorial serie
 ## Technologies
 - React
 - Vite
-- CSS
 - HTML
+- CSS
 - Node.js
 
 IDE: Visual Studio Code
@@ -19,7 +19,9 @@ The Meme Generator Web app currently displays a header, a meme image, and a butt
 To install and run the project:
 
 1. Clone this repository:
-git clone https://github.com/pujaroy280/react-meme-generator.git
+```
+git clone https://github.com/pujaroy280/Meme-Generator-Part1.git
+```
 
 2. Navigate to the project directory:
 ```
