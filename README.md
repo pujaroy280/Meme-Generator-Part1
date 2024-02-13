@@ -3,6 +3,8 @@
 ## About
 This project is a React meme generator developed from the Scrimba tutorial series. It allows users to generate random memes by clicking a button.
 
+![image](https://github.com/pujaroy280/Meme-Generator-Part1/assets/62675121/5485d1ab-16dc-450f-a557-dd5ccf2e80a3)
+
 ## Technologies
 - React
 - Vite
@@ -37,3 +39,6 @@ npm install
 npm run dev
 ```
 5. Open your browser and navigate to the localhost running.
+```
+http://localhost:3000/
+```
